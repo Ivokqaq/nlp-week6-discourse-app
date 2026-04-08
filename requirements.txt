@@ -1,0 +1,4 @@
+streamlit>=1.33
+requests>=2.31
+spacy>=3.7
+fastcoref>=2.1.6
